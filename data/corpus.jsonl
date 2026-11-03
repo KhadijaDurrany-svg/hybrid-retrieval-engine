@@ -1,0 +1,128 @@
+{"id": "vecsearch-0", "title": "Vector search indexing", "text": "This note covers semantic vector neighbour. quantization shrinks memory.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-1", "title": "Vector search indexing", "text": "This note covers vector semantic. recall trades against latency.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-2", "title": "Vector search indexing", "text": "This note covers proximity vector. recall trades against latency.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-3", "title": "Vector search indexing", "text": "This note covers index proximity. graphs connect close points.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-4", "title": "Vector search indexing", "text": "This note covers vector proximity. graphs connect close points.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-5", "title": "Vector search indexing", "text": "This note covers vector ann proximity. recall trades against latency.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-6", "title": "Vector search indexing", "text": "This note covers semantic nearest. quantization shrinks memory.", "meta": {"topic": "vecsearch"}}
+{"id": "vecsearch-7", "title": "Vector search indexing", "text": "This note covers neighbour proximity. recall trades against latency.", "meta": {"topic": "vecsearch"}}
+{"id": "bm25-0", "title": "Lexical ranking with BM25", "text": "This note covers inverted keyword posting. pruning skips cheap documents.", "meta": {"topic": "bm25"}}
+{"id": "bm25-1", "title": "Lexical ranking with BM25", "text": "This note covers keyword tokeniser term sparse. pruning skips cheap documents.", "meta": {"topic": "bm25"}}
+{"id": "bm25-2", "title": "Lexical ranking with BM25", "text": "This note covers frequency keyword sparse. pruning skips cheap documents.", "meta": {"topic": "bm25"}}
+{"id": "bm25-3", "title": "Lexical ranking with BM25", "text": "This note covers match sparse frequency tokeniser. document length normalisation matters.", "meta": {"topic": "bm25"}}
+{"id": "bm25-4", "title": "Lexical ranking with BM25", "text": "This note covers posting exact. pruning skips cheap documents.", "meta": {"topic": "bm25"}}
+{"id": "bm25-5", "title": "Lexical ranking with BM25", "text": "This note covers match posting keyword term. idf weights rare words.", "meta": {"topic": "bm25"}}
+{"id": "bm25-6", "title": "Lexical ranking with BM25", "text": "This note covers lexical term inverted. pruning skips cheap documents.", "meta": {"topic": "bm25"}}
+{"id": "bm25-7", "title": "Lexical ranking with BM25", "text": "This note covers sparse inverted bm25 match. pruning skips cheap documents.", "meta": {"topic": "bm25"}}
+{"id": "rag-0", "title": "Retrieval augmented generation", "text": "This note covers retrieval grounded augmented. the model reads retrieved passages.", "meta": {"topic": "rag"}}
+{"id": "rag-1", "title": "Retrieval augmented generation", "text": "This note covers grounded knowledge context. citations let a reader verify.", "meta": {"topic": "rag"}}
+{"id": "rag-2", "title": "Retrieval augmented generation", "text": "This note covers grounded knowledge prompt context. it abstains when unsure.", "meta": {"topic": "rag"}}
+{"id": "rag-3", "title": "Retrieval augmented generation", "text": "This note covers answer assistant grounding retrieval. the model reads retrieved passages.", "meta": {"topic": "rag"}}
+{"id": "rag-4", "title": "Retrieval augmented generation", "text": "This note covers generation answer retrieval. the model reads retrieved passages.", "meta": {"topic": "rag"}}
+{"id": "rag-5", "title": "Retrieval augmented generation", "text": "This note covers answer generation. the model reads retrieved passages.", "meta": {"topic": "rag"}}
+{"id": "rag-6", "title": "Retrieval augmented generation", "text": "This note covers augmented answer knowledge. it abstains when unsure.", "meta": {"topic": "rag"}}
+{"id": "rag-7", "title": "Retrieval augmented generation", "text": "This note covers grounding assistant. citations let a reader verify.", "meta": {"topic": "rag"}}
+{"id": "eval-0", "title": "Ranking evaluation metrics", "text": "This note covers recall measure mrr metric. gains are discounted by rank.", "meta": {"topic": "eval"}}
+{"id": "eval-1", "title": "Ranking evaluation metrics", "text": "This note covers metric precision judgement. a held out query set is fixed.", "meta": {"topic": "eval"}}
+{"id": "eval-2", "title": "Ranking evaluation metrics", "text": "This note covers metric judgement benchmark. gains are discounted by rank.", "meta": {"topic": "eval"}}
+{"id": "eval-3", "title": "Ranking evaluation metrics", "text": "This note covers precision metric measure. a held out query set is fixed.", "meta": {"topic": "eval"}}
+{"id": "eval-4", "title": "Ranking evaluation metrics", "text": "This note covers quality metric mrr. gains are discounted by rank.", "meta": {"topic": "eval"}}
+{"id": "eval-5", "title": "Ranking evaluation metrics", "text": "This note covers quality recall benchmark. a held out query set is fixed.", "meta": {"topic": "eval"}}
+{"id": "eval-6", "title": "Ranking evaluation metrics", "text": "This note covers measure judgement offline ndcg. bootstrap gives error bars.", "meta": {"topic": "eval"}}
+{"id": "eval-7", "title": "Ranking evaluation metrics", "text": "This note covers mrr metric offline ndcg. bootstrap gives error bars.", "meta": {"topic": "eval"}}
+{"id": "rerank-0", "title": "Cross encoder reranking", "text": "This note covers reorder pairwise second. a slower model scores few pairs.", "meta": {"topic": "rerank"}}
+{"id": "rerank-1", "title": "Cross encoder reranking", "text": "This note covers precision rerank. latency budgets bound the depth.", "meta": {"topic": "rerank"}}
+{"id": "rerank-2", "title": "Cross encoder reranking", "text": "This note covers second crossencoder rerank. a slower model scores few pairs.", "meta": {"topic": "rerank"}}
+{"id": "rerank-3", "title": "Cross encoder reranking", "text": "This note covers pairwise refine reorder rescoring. latency budgets bound the depth.", "meta": {"topic": "rerank"}}
+{"id": "rerank-4", "title": "Cross encoder reranking", "text": "This note covers pairwise precision. a slower model scores few pairs.", "meta": {"topic": "rerank"}}
+{"id": "rerank-5", "title": "Cross encoder reranking", "text": "This note covers crossencoder rescoring. a slower model scores few pairs.", "meta": {"topic": "rerank"}}
+{"id": "rerank-6", "title": "Cross encoder reranking", "text": "This note covers candidate precision. latency budgets bound the depth.", "meta": {"topic": "rerank"}}
+{"id": "rerank-7", "title": "Cross encoder reranking", "text": "This note covers rescoring crossencoder. it runs over the shortlist only.", "meta": {"topic": "rerank"}}
+{"id": "chunking-0", "title": "Document chunking strategies", "text": "This note covers overlap piece paragraph. too small loses meaning.", "meta": {"topic": "chunking"}}
+{"id": "chunking-1", "title": "Document chunking strategies", "text": "This note covers boundary passage split. too small loses meaning.", "meta": {"topic": "chunking"}}
+{"id": "chunking-2", "title": "Document chunking strategies", "text": "This note covers granularity paragraph chunk. headings make natural boundaries.", "meta": {"topic": "chunking"}}
+{"id": "chunking-3", "title": "Document chunking strategies", "text": "This note covers segment overlap section. overlap preserves context across cuts.", "meta": {"topic": "chunking"}}
+{"id": "chunking-4", "title": "Document chunking strategies", "text": "This note covers piece granularity segment. too small loses meaning.", "meta": {"topic": "chunking"}}
+{"id": "chunking-5", "title": "Document chunking strategies", "text": "This note covers split piece segment. too small loses meaning.", "meta": {"topic": "chunking"}}
+{"id": "chunking-6", "title": "Document chunking strategies", "text": "This note covers section overlap segment boundary. too small loses meaning.", "meta": {"topic": "chunking"}}
+{"id": "chunking-7", "title": "Document chunking strategies", "text": "This note covers chunk split boundary granularity. too small loses meaning.", "meta": {"topic": "chunking"}}
+{"id": "hybrid-0", "title": "Hybrid fusion of rankers", "text": "This note covers ensemble hybrid fusion mix. normalisation aligns score ranges.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-1", "title": "Hybrid fusion of rankers", "text": "This note covers merge ensemble reciprocal hybrid. normalisation aligns score ranges.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-2", "title": "Hybrid fusion of rankers", "text": "This note covers ensemble hybrid rank. rank based fusion needs no scaling.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-3", "title": "Hybrid fusion of rankers", "text": "This note covers blend reciprocal union. normalisation aligns score ranges.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-4", "title": "Hybrid fusion of rankers", "text": "This note covers ensemble hybrid. normalisation aligns score ranges.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-5", "title": "Hybrid fusion of rankers", "text": "This note covers mix reciprocal. both signals cover each other.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-6", "title": "Hybrid fusion of rankers", "text": "This note covers fusion rank blend mix. rank based fusion needs no scaling.", "meta": {"topic": "hybrid"}}
+{"id": "hybrid-7", "title": "Hybrid fusion of rankers", "text": "This note covers blend union. rank based fusion needs no scaling.", "meta": {"topic": "hybrid"}}
+{"id": "latency-0", "title": "Serving latency and caching", "text": "This note covers cache throughput fast. the tail dominates user experience.", "meta": {"topic": "latency"}}
+{"id": "latency-1", "title": "Serving latency and caching", "text": "This note covers concurrency latency throughput speed. the tail dominates user experience.", "meta": {"topic": "latency"}}
+{"id": "latency-2", "title": "Serving latency and caching", "text": "This note covers tail queue. the tail dominates user experience.", "meta": {"topic": "latency"}}
+{"id": "latency-3", "title": "Serving latency and caching", "text": "This note covers latency fast queue. warm caches cut repeated work.", "meta": {"topic": "latency"}}
+{"id": "latency-4", "title": "Serving latency and caching", "text": "This note covers concurrency responsive cache. warm caches cut repeated work.", "meta": {"topic": "latency"}}
+{"id": "latency-5", "title": "Serving latency and caching", "text": "This note covers responsive speed throughput. batching amortises overhead.", "meta": {"topic": "latency"}}
+{"id": "latency-6", "title": "Serving latency and caching", "text": "This note covers speed throughput percentile. warm caches cut repeated work.", "meta": {"topic": "latency"}}
+{"id": "latency-7", "title": "Serving latency and caching", "text": "This note covers percentile queue speed. warm caches cut repeated work.", "meta": {"topic": "latency"}}
+{"id": "embedding_train-0", "title": "Training text embeddings", "text": "This note covers learn representation finetune encoder. temperature scales the loss.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-1", "title": "Training text embeddings", "text": "This note covers pairs finetune. temperature scales the loss.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-2", "title": "Training text embeddings", "text": "This note covers contrastive learn. temperature scales the loss.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-3", "title": "Training text embeddings", "text": "This note covers pairs training encoder. temperature scales the loss.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-4", "title": "Training text embeddings", "text": "This note covers pairs encoder training contrastive. temperature scales the loss.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-5", "title": "Training text embeddings", "text": "This note covers negatives triplet learn. hard negatives sharpen the model.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-6", "title": "Training text embeddings", "text": "This note covers training representation contrastive encoder. temperature scales the loss.", "meta": {"topic": "embedding_train"}}
+{"id": "embedding_train-7", "title": "Training text embeddings", "text": "This note covers pairs negatives finetune learn. hard negatives sharpen the model.", "meta": {"topic": "embedding_train"}}
+{"id": "safety-0", "title": "Guardrails and safety checks", "text": "This note covers sanitise redaction safety policy. outputs are validated by rules.", "meta": {"topic": "safety"}}
+{"id": "safety-1", "title": "Guardrails and safety checks", "text": "This note covers pii safety redaction. outputs are validated by rules.", "meta": {"topic": "safety"}}
+{"id": "safety-2", "title": "Guardrails and safety checks", "text": "This note covers check guardrail injection. prompt injection hijacks instructions.", "meta": {"topic": "safety"}}
+{"id": "safety-3", "title": "Guardrails and safety checks", "text": "This note covers filter policy block. prompt injection hijacks instructions.", "meta": {"topic": "safety"}}
+{"id": "safety-4", "title": "Guardrails and safety checks", "text": "This note covers safety sanitise redaction. prompt injection hijacks instructions.", "meta": {"topic": "safety"}}
+{"id": "safety-5", "title": "Guardrails and safety checks", "text": "This note covers block injection pii sanitise. pii is masked before logging.", "meta": {"topic": "safety"}}
+{"id": "safety-6", "title": "Guardrails and safety checks", "text": "This note covers sanitise pii safety. prompt injection hijacks instructions.", "meta": {"topic": "safety"}}
+{"id": "safety-7", "title": "Guardrails and safety checks", "text": "This note covers check sanitise guardrail pii. outputs are validated by rules.", "meta": {"topic": "safety"}}
+{"id": "sql_agent-0", "title": "Text to SQL agents", "text": "This note covers column data relational. read only access limits blast radius.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-1", "title": "Text to SQL agents", "text": "This note covers table database structured. the plan is explained to a user.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-2", "title": "Text to SQL agents", "text": "This note covers structured column. read only access limits blast radius.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-3", "title": "Text to SQL agents", "text": "This note covers sql relational join data. read only access limits blast radius.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-4", "title": "Text to SQL agents", "text": "This note covers column query structured relational. read only access limits blast radius.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-5", "title": "Text to SQL agents", "text": "This note covers relational column. generated sql is validated first.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-6", "title": "Text to SQL agents", "text": "This note covers query structured database. read only access limits blast radius.", "meta": {"topic": "sql_agent"}}
+{"id": "sql_agent-7", "title": "Text to SQL agents", "text": "This note covers select schema. the plan is explained to a user.", "meta": {"topic": "sql_agent"}}
+{"id": "forecasting-0", "title": "Demand forecasting", "text": "This note covers series projection. leakage ruins a backtest.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-1", "title": "Demand forecasting", "text": "This note covers seasonality predict future. leakage ruins a backtest.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-2", "title": "Demand forecasting", "text": "This note covers forecast future. probabilistic bands beat point guesses.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-3", "title": "Demand forecasting", "text": "This note covers quantile seasonality predict trend. probabilistic bands beat point guesses.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-4", "title": "Demand forecasting", "text": "This note covers timeseries forecast quantile. leakage ruins a backtest.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-5", "title": "Demand forecasting", "text": "This note covers trend horizon. holidays shift the baseline.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-6", "title": "Demand forecasting", "text": "This note covers forecast predict demand. probabilistic bands beat point guesses.", "meta": {"topic": "forecasting"}}
+{"id": "forecasting-7", "title": "Demand forecasting", "text": "This note covers timeseries series seasonality. holidays shift the baseline.", "meta": {"topic": "forecasting"}}
+{"id": "fraud-0", "title": "Fraud detection models", "text": "This note covers anomaly alert ring risk. cost sensitive thresholds matter.", "meta": {"topic": "fraud"}}
+{"id": "fraud-1", "title": "Fraud detection models", "text": "This note covers ring suspicious score. cost sensitive thresholds matter.", "meta": {"topic": "fraud"}}
+{"id": "fraud-2", "title": "Fraud detection models", "text": "This note covers suspicious transaction fraud abuse. cost sensitive thresholds matter.", "meta": {"topic": "fraud"}}
+{"id": "fraud-3", "title": "Fraud detection models", "text": "This note covers imbalanced suspicious abuse. rare positives need careful sampling.", "meta": {"topic": "fraud"}}
+{"id": "fraud-4", "title": "Fraud detection models", "text": "This note covers suspicious score risk transaction. graph features expose rings.", "meta": {"topic": "fraud"}}
+{"id": "fraud-5", "title": "Fraud detection models", "text": "This note covers anomaly abuse suspicious. rare positives need careful sampling.", "meta": {"topic": "fraud"}}
+{"id": "fraud-6", "title": "Fraud detection models", "text": "This note covers alert ring suspicious. graph features expose rings.", "meta": {"topic": "fraud"}}
+{"id": "fraud-7", "title": "Fraud detection models", "text": "This note covers risk suspicious fraud. cost sensitive thresholds matter.", "meta": {"topic": "fraud"}}
+{"id": "ocr-0", "title": "Document OCR and extraction", "text": "This note covers scan parse confidence ocr. layout helps locate values.", "meta": {"topic": "ocr"}}
+{"id": "ocr-1", "title": "Document OCR and extraction", "text": "This note covers capture confidence digitise. layout helps locate values.", "meta": {"topic": "ocr"}}
+{"id": "ocr-2", "title": "Document OCR and extraction", "text": "This note covers ocr capture. low confidence fields go to review.", "meta": {"topic": "ocr"}}
+{"id": "ocr-3", "title": "Document OCR and extraction", "text": "This note covers form digitise extract. layout helps locate values.", "meta": {"topic": "ocr"}}
+{"id": "ocr-4", "title": "Document OCR and extraction", "text": "This note covers confidence digitise. low confidence fields go to review.", "meta": {"topic": "ocr"}}
+{"id": "ocr-5", "title": "Document OCR and extraction", "text": "This note covers field confidence digitise. low confidence fields go to review.", "meta": {"topic": "ocr"}}
+{"id": "ocr-6", "title": "Document OCR and extraction", "text": "This note covers digitise scan ocr. layout helps locate values.", "meta": {"topic": "ocr"}}
+{"id": "ocr-7", "title": "Document OCR and extraction", "text": "This note covers confidence reading ocr. layout helps locate values.", "meta": {"topic": "ocr"}}
+{"id": "routing-0", "title": "LLM provider routing", "text": "This note covers route switch failover router. circuit breakers ride out outages.", "meta": {"topic": "routing"}}
+{"id": "routing-1", "title": "LLM provider routing", "text": "This note covers limit fallback failover budget. per tenant budgets cap spend.", "meta": {"topic": "routing"}}
+{"id": "routing-2", "title": "LLM provider routing", "text": "This note covers failover spend. per tenant budgets cap spend.", "meta": {"topic": "routing"}}
+{"id": "routing-3", "title": "LLM provider routing", "text": "This note covers budget fallback. circuit breakers ride out outages.", "meta": {"topic": "routing"}}
+{"id": "routing-4", "title": "LLM provider routing", "text": "This note covers budget route. one api fronts many vendors.", "meta": {"topic": "routing"}}
+{"id": "routing-5", "title": "LLM provider routing", "text": "This note covers switch spend router. one api fronts many vendors.", "meta": {"topic": "routing"}}
+{"id": "routing-6", "title": "LLM provider routing", "text": "This note covers fallback limit budget. circuit breakers ride out outages.", "meta": {"topic": "routing"}}
+{"id": "routing-7", "title": "LLM provider routing", "text": "This note covers gateway switch quota. per tenant budgets cap spend.", "meta": {"topic": "routing"}}
+{"id": "memory-0", "title": "Agent context memory", "text": "This note covers context history summary. old turns are summarised not dropped.", "meta": {"topic": "memory"}}
+{"id": "memory-1", "title": "Agent context memory", "text": "This note covers memory retention eviction. important facts are pinned.", "meta": {"topic": "memory"}}
+{"id": "memory-2", "title": "Agent context memory", "text": "This note covers buffer remember memory. important facts are pinned.", "meta": {"topic": "memory"}}
+{"id": "memory-3", "title": "Agent context memory", "text": "This note covers context remember eviction. old turns are summarised not dropped.", "meta": {"topic": "memory"}}
+{"id": "memory-4", "title": "Agent context memory", "text": "This note covers retention recall history. search brings archived notes back.", "meta": {"topic": "memory"}}
+{"id": "memory-5", "title": "Agent context memory", "text": "This note covers remember archive context. important facts are pinned.", "meta": {"topic": "memory"}}
+{"id": "memory-6", "title": "Agent context memory", "text": "This note covers memory history buffer. old turns are summarised not dropped.", "meta": {"topic": "memory"}}
+{"id": "memory-7", "title": "Agent context memory", "text": "This note covers remember eviction recall. old turns are summarised not dropped.", "meta": {"topic": "memory"}}
